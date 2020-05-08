@@ -1,3 +1,6 @@
 Git add .
 Git commit .
+<<<<<<< HEAD
 
+=======
+>>>>>>> feature
